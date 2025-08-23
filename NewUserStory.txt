@@ -1,4 +1,4 @@
 Fixing code is here
 
 npm init
-npm start
+npm run dev
