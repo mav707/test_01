@@ -1,0 +1,4 @@
+Fixing code is here
+
+npm init
+npm start
